@@ -1,0 +1,18 @@
+body{background-image:url(../img/2.jpg);
+}
+div{
+	margin-top: 185px;
+	margin-left: 18px;
+}
+.a1{
+		font-size:24px;
+}
+.a2{
+	
+	background-color:coral;
+	border-radius: 50px;
+	font-size:28px;
+	position: relative;
+	bottom: -45px;
+	left: 95px;
+}
